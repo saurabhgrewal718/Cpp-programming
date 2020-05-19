@@ -1,3 +1,5 @@
+//the gratest common divisors of two numbers
+
 #include <iostream>
 #include <math.h>
 
