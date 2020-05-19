@@ -1,3 +1,5 @@
+//the least common multiple of two numbers
+
 #include <iostream>
 #include <math.h>
 
