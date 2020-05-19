@@ -1,3 +1,6 @@
+//checking if a number is aplindrome or not...
+//palindrome is a number wich is same reading froim front and back...eg 121 when read from front is same as when read from backward
+
 #include <iostream>
 #include <math.h>
 
