@@ -1,3 +1,4 @@
+//average using arrays
 #include <iostream>
 using namespace std;
 
