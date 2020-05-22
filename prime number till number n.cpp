@@ -1,3 +1,5 @@
+//get all the prime numbers till number n
+
 #include <iostream>
 using namespace std;
 
